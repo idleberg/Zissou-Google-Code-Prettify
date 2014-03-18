@@ -12,8 +12,6 @@ Three color schemes inspired by Wes Anderson's movie [The Life Aquatic with Stev
 
 ## License
 
-## License
-
 This work by Jan T. Sott is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US).
 
 ## Donate
